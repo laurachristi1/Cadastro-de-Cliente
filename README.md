@@ -1,5 +1,4 @@
 # Cadastro-de-Cliente
-aula git 17/03
 
 # Getting Started with Create React App
 
